@@ -1,6 +1,6 @@
 # DashboardMovies
 
-## Дашборд с описательной статистикой основанной на рейтинге IMBD Top 250 Movies. 
+Дашборд с описательной статистикой основанной на рейтинге IMBD Top 250 Movies. 
 
 ### Цель: 
 
@@ -30,4 +30,6 @@ https://www.kaggle.com/datasets/rajugc/imdb-top-250-movies-dataset/code
 Ссылка на дашборд в Tableau Public: 
 
 https://public.tableau.com/app/profile/anastasia.gusarova/viz/films_new/DashboardIMDBTop250Movies
+
+![Image dashboard](https://github.com/AnastasiaGusarova/DashboardMovies/blob/main/Dashboard%20IMDB%20Top%20250%20Movies.png)
 
